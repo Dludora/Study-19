@@ -1,2 +1,1 @@
-import os
-os.system('python function_学号.py')
+print('My student_id: 学号')
